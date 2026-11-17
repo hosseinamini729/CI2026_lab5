@@ -51,7 +51,7 @@ jupyter notebook Wumpus_World_QLearning.ipynb
 
 - **State Representation ($s_t$):**
 
-$$s_t = \langle \text{row}, \text{col}, \text{has\_gold}, \text{wumpus\_alive}, \text{Breeze}, \text{Stench}, \text{Glitter} \rangle$$
+$$s_t = \langle \text{row}, \text{col}, \text{has-gold}, \text{wumpus-alive}, \text{Breeze}, \text{Stench}, \text{Glitter} \rangle$$
 
 - **Action Space ($\mathcal{A}$):** `UP (0)`, `DOWN (1)`, `LEFT (2)`, `RIGHT (3)`, `GRAB (4)`, `SHOOT (5)`
 
